@@ -1,23 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dricmoy%20Bhattacharjee&fontSize=45&fontColor=fff&animation=fadeIn" />
-</p>
-
-<h1 align="center">💻 Aspiring Software Engineer | Open Source Contributor 🚀</h1>
-
-<p align="center">
-  <a href="https://github.com/dricmoy/github-readme-snake">
-    <img src="https://github.com/dricmoy/dricmoy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Hi+👋,+I'm+Dricmoy+Bhattacharjee;Aspiring+Software+Engineer;Building+Cool+Things" />
+</h1>
 
 
----
+<h1 align="center">💻 Software Developer Intern </h1>
+
 🎓 3rd Year Computer Science (Honors) Student @ University of Alberta  
 💻 Aspiring Software Engineer | Open Source Contributor  
 🚀 Currently building [inputShare](https://github.com/Dricmoy/inputShare) — an open-source alternative to ShareMouse  
-
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -58,11 +48,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dricmoy&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dricmoy&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dricmoy&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dricmoy&layout=compact&theme=tokyonight" height="160" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dricmoy&theme=tokyonight" height="160" />
 </p>
 
+
 ---
+
+<p align="center">
+  <a href="https://github.com/dricmoy/github-readme-snake">
+    <img src="https://github.com/dricmoy/dricmoy/blob/output/github-contribution-grid-snake.svg?theme=dark" alt="snake animation" />
+  </a>
+</p>
+
 
 ## 📫 Connect with Me  
 
