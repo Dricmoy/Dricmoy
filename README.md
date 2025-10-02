@@ -5,10 +5,6 @@
 <h1 align="center">💻 Aspiring Software Engineer | Open Source Contributor 🚀</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" />
-</p>
-
-<p align="center">
   <a href="https://github.com/dricmoy/github-readme-snake">
     <img src="https://github.com/dricmoy/dricmoy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
   </a>
