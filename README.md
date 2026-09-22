@@ -1,62 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Hi+👋,+I'm+Dricmoy+Bhattacharjee;Aspiring+Software+Engineer;Building+Cool+Things" />
-</h1>
+# Dricmoy Bhattacharjee
 
+Software developer intern at Cisco (Splunk) and Computer Science Honours student at the University of Alberta. Expected graduation: December 2027.
 
-<h1 align="center">💻 Software Developer Intern </h1>
+I build backend systems, cloud infrastructure, and developer tooling. I care about reliability, clear interfaces, and tests that exercise real failure modes.
 
-🎓 3rd Year Computer Science (Honors) Student @ University of Alberta  
-💻 Aspiring Software Engineer | Open Source Contributor  
+## Selected work
 
-## 🛠️ Tech Stack  
+- **[Lot](https://github.com/Dricmoy/lot-trading-lab)** — A paper-trading lab with a React client, Django account service, Go matching engine, and PostgreSQL persistence. It covers price-time priority, portfolio accounting, idempotent retries, partial fills, and account isolation.
+- **[Lavender](https://github.com/Dricmoy/Lavender-DistributedSocialMedia)** — A federated social network built with Django and JavaScript. It uses inbox-based distribution between nodes and supports public, unlisted, and friends-only content.
+- **[NeuroReach](https://github.com/Dricmoy/NeuroreachUalberta)** — A responsive web platform for a student-led neuroscience outreach initiative, built with React and TypeScript.
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+## Open source
 
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+- **Kubernetes:** [corrected `resource.Quantity` OpenAPI documentation](https://github.com/kubernetes/kubernetes/pull/140135) and [added coverage for canonical exponent overflow](https://github.com/kubernetes/kubernetes/pull/142156).
+- **AWS CDK:** [enabled load balancer logging in environment-agnostic stacks](https://github.com/aws/aws-cdk/pull/38231), with unit and integration coverage.
+- **Trino:** [updated the Cassandra connector's default test version to Cassandra 4](https://github.com/trinodb/trino/pull/30174).
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## Technologies
 
-## 📊 GitHub Stats  
+| | |
+| --- | --- |
+| Languages | Go, Python, Ruby, TypeScript, Java, C |
+| Cloud and infrastructure | Kubernetes, AWS, Docker, Terraform, PostgreSQL |
+| Frameworks and tooling | Ruby on Rails, Django, React, OpenTelemetry, GitHub Actions |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dricmoy&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dricmoy&layout=compact&theme=tokyonight" height="160" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dricmoy&theme=tokyonight" height="160" />
-</p>
+## Contact
 
-
----
-
-<p align="center">
-  <a href="https://github.com/dricmoy/github-readme-snake">
-    <img src="https://github.com/dricmoy/dricmoy/blob/output/github-contribution-grid-snake.svg?theme=dark" alt="snake animation" />
-  </a>
-</p>
-
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="mailto:dricmoy@ualberta.ca"><img src="https://img.shields.io/badge/Email-Dricmoy-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/dricmoy"><img src="https://img.shields.io/badge/LinkedIn-Dricmoy-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Dricmoy"><img src="https://img.shields.io/badge/GitHub-Dricmoy-black?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/dricmoy) · [dricbhattacharjee@gmail.com](mailto:dricbhattacharjee@gmail.com)
