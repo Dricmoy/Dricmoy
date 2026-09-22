@@ -7,7 +7,6 @@
 
 🎓 3rd Year Computer Science (Honors) Student @ University of Alberta  
 💻 Aspiring Software Engineer | Open Source Contributor  
-🚀 Currently building [inputShare](https://github.com/Dricmoy/inputShare) — an open-source alternative to ShareMouse  
 
 ## 🛠️ Tech Stack  
 
