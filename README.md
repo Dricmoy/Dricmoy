@@ -35,15 +35,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 🌟 Featured Projects  
-
-- 🔗 [**inputShare**](https://github.com/Dricmoy/inputShare) — Open source ShareMouse alternative (cross-PC mouse + keyboard sharing, clipboard sync, multi-monitor support).  
-- 🔗 [Other Project](https://github.com/Dricmoy) — *(Add a description here!)*  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
