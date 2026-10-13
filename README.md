@@ -7,7 +7,7 @@ I build backend systems, cloud infrastructure, and developer tooling. I care abo
 ## Selected work
 
 - **[Lot](https://github.com/Dricmoy/lot-trading-lab)** — A paper-trading lab with a React client, Django account service, Go matching engine, and PostgreSQL persistence. It covers price-time priority, portfolio accounting, idempotent retries, partial fills, and account isolation.
-- **[Lavender](https://github.com/Dricmoy/Lavender-DistributedSocialMedia)** — A federated social network built with Django and JavaScript. It uses inbox-based distribution between nodes and supports public, unlisted, and friends-only content.
+- **[DriveLab](https://github.com/Dricmoy/drivelab)** — A driving planner and visual replay workbench comparing route following with receding-horizon trajectory planning. Built with React/Three.js, Python simulation, Rust trajectory scoring, and optional PyTorch forecasting.
 - **[NeuroReach](https://github.com/Dricmoy/NeuroreachUalberta)** — A responsive web platform for a student-led neuroscience outreach initiative, built with React and TypeScript.
 
 ## Open source
