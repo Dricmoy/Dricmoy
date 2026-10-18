@@ -29,11 +29,11 @@ A driving planner and visual replay workbench comparing route following with rec
 
 ## 🌱 Open source
 
-✅ merged · 🔄 in review
+✅ merged · 🔄 in review · ⚪ closed
 
 | Project | Contributions |
 | --- | --- |
-| **Kubernetes** | ✅ [Fixed `resource.Quantity` OpenAPI description formatting](https://github.com/kubernetes/kubernetes/pull/140135)<br>🔄 [Fixed canonical exponent overflow in `Quantity`](https://github.com/kubernetes/kubernetes/pull/142156) |
+| **Kubernetes** | ✅ [Fixed `resource.Quantity` OpenAPI description formatting](https://github.com/kubernetes/kubernetes/pull/140135)<br>🔄 [Fixed canonical exponent overflow in `Quantity`](https://github.com/kubernetes/kubernetes/pull/142156)<br>⚪ [Marked session affinity timeout tests as slow](https://github.com/kubernetes/kubernetes/pull/140175) |
 | **Trino** | ✅ [Moved the Cassandra connector's default test version to Cassandra 4](https://github.com/trinodb/trino/pull/30174) |
 | **Apache Kafka** | 🔄 [Implemented `MockConsumer.offsetsForTimes`](https://github.com/apache/kafka/pull/23834) (KAFKA-7187)<br>🔄 [Added a KRaft controller SASL authentication example](https://github.com/apache/kafka/pull/23835) (KAFKA-14369) |
 | **Apache Arrow** | 🔄 [Avoided overflow in `binary_slice` output sizing](https://github.com/apache/arrow/pull/52451) (C++)<br>🔄 [Used default KMS connection values in Parquet encryption](https://github.com/apache/arrow/pull/53996) (C++) |
@@ -41,6 +41,18 @@ A driving planner and visual replay workbench comparing route following with rec
 | **AWS SDK for Java v2** | 🔄 [Added a compact format to `LoggingMetricPublisher`](https://github.com/aws/aws-sdk-java-v2/pull/7451) |
 | **Spring Boot** | 🔄 [Documented composing reusable test slice annotations](https://github.com/spring-projects/spring-boot/pull/52256) |
 | **Swift** | 🔄 [Suggested moving misplaced generic `where` clauses](https://github.com/swiftlang/swift/pull/93359) (compiler parser)<br>🔄 [Diagnosed misplaced generic `where` clauses in functions](https://github.com/swiftlang/swift-syntax/pull/3481) (swift-syntax) |
+| **JetBrains swot** | ⚪ [Added the University of Alberta to the academic domain list](https://github.com/JetBrains/swot/pull/22187) |
+
+## 👥 Team and course projects
+
+- **[EventBuddy](https://github.com/CMPUT301F24trojan1/trojan1-eventbuddy)**: Android event lottery app built as a CMPUT 301 team project. I built the global notifications backend, the waitlist and lottery flows, the admin screens, map display, and QR generation and scanning, and I kept the CI/CD pipeline running.
+- **[NoteApp](https://github.com/peterzdhuang/NoteApp)** · [live](https://note-app-rust-sigma.vercel.app): note-sharing web app for university students. I did the layout prototyping and UI work, and the January 2025 revamp.
+- **[RateMyStudySpot](https://github.com/ratemystudyspot/website)**: I designed and built the site footer.
+- **[FitnessApp](https://github.com/peterzdhuang/FitnessApp)**: I wrote the initial Expo frontend.
+- **NeurAlbertaTech website** (private): updated the workshop schedules and the problem-provider playlist, and added popup fields.
+- **Octa** (private): CI quality and security checks, an authorization fallback fix, and cross-platform executable path normalization in detection.
+- **CMPUT 379 systems coursework** (private): a Unix shell (dragonshell), a thread-pool MapReduce library with memory leaks fixed, and a file system simulator, all in C.
+- **CMPUT 291** (private): database assignment work.
 
 ## 🧰 Technologies
 
