@@ -36,11 +36,11 @@ A driving planner and visual replay workbench comparing route following with rec
 | **Kubernetes** | ✅ [Fixed `resource.Quantity` OpenAPI description formatting](https://github.com/kubernetes/kubernetes/pull/140135)<br>🔄 [Fixed canonical exponent overflow in `Quantity`](https://github.com/kubernetes/kubernetes/pull/142156)<br>⚪ [Marked session affinity timeout tests as slow](https://github.com/kubernetes/kubernetes/pull/140175) |
 | **Trino** | ✅ [Moved the Cassandra connector's default test version to Cassandra 4](https://github.com/trinodb/trino/pull/30174) |
 | **Apache Kafka** | 🔄 [Implemented `MockConsumer.offsetsForTimes`](https://github.com/apache/kafka/pull/23834) (KAFKA-7187)<br>🔄 [Added a KRaft controller SASL authentication example](https://github.com/apache/kafka/pull/23835) (KAFKA-14369) |
-| **Apache Arrow** | 🔄 [Avoided overflow in `binary_slice` output sizing](https://github.com/apache/arrow/pull/52451) (C++)<br>🔄 [Used default KMS connection values in Parquet encryption](https://github.com/apache/arrow/pull/53996) (C++) |
+| **Apache Arrow** | 🔄 [Avoided overflow in `binary_slice` output sizing](https://github.com/apache/arrow/pull/52451) (C++)<br>✅ [Used default KMS connection values in Parquet encryption](https://github.com/apache/arrow/pull/53996) (C++) |
 | **AWS CDK** | 🔄 [Enabled load balancer logging in environment-agnostic stacks](https://github.com/aws/aws-cdk/pull/38231)<br>🔄 [Clarified Auto Scaling default cooldown behavior](https://github.com/aws/aws-cdk/pull/39329) |
 | **AWS SDK for Java v2** | 🔄 [Added a compact format to `LoggingMetricPublisher`](https://github.com/aws/aws-sdk-java-v2/pull/7451) |
 | **Spring Boot** | 🔄 [Documented composing reusable test slice annotations](https://github.com/spring-projects/spring-boot/pull/52256) |
-| **Swift** | 🔄 [Suggested moving misplaced generic `where` clauses](https://github.com/swiftlang/swift/pull/93359) (compiler parser)<br>🔄 [Diagnosed misplaced generic `where` clauses in functions](https://github.com/swiftlang/swift-syntax/pull/3481) (swift-syntax) |
+| **Swift** | ⚪ [Suggested moving misplaced generic `where` clauses](https://github.com/swiftlang/swift/pull/93359) (compiler parser)<br>⚪ [Diagnosed misplaced generic `where` clauses in functions](https://github.com/swiftlang/swift-syntax/pull/3481) (swift-syntax) |
 | **JetBrains swot** | ⚪ [Added the University of Alberta to the academic domain list](https://github.com/JetBrains/swot/pull/22187) |
 
 ## 👥 Team and course projects
